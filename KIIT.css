@@ -1,0 +1,87 @@
+.body{
+	margin: 0px;
+}
+.header{
+	position: fixed ;
+	left : 0px;
+	right : 0px;
+	height: 70px;
+	width: 100%;
+	background-color: black;
+	z-index: 100;
+} 
+.div-logo{
+	text-align: center;
+	margin: 10px;
+	float: left;
+	padding-left: 5%;
+}
+.nav a{
+	color: white;
+	font-size: 15px;
+	font-weight: 700;
+	font-family: "Helvetica Neue";
+	padding-right: 50px;
+	padding-top: 2%;
+	display: inline-block;
+}
+.nav2{
+	float: right;
+	color: white;
+	font-size: 15px;
+	font-weight: 700;
+	font-family: "Helvetica Neue";
+	padding-right: 50px;
+}
+.bg-image{
+	padding-left: 10%
+}
+.text1{
+	padding-left: 10%;
+	color: white;
+}
+.text2{
+	padding-left: 35%;
+	font-size: 20px;
+	color: white;
+}
+.text3{
+	padding-top: 8%;
+	text-align: center;
+}
+.card-list{
+	width: 100%;
+}
+.card{
+	width: 22%;
+	padding: 1.5%;
+	height: 300px;
+	float: left;
+	text-align: center;
+	padding-left: 8%;
+}
+.card img{
+	width: 100%;
+	height: 70%;
+}
+.next{
+	background-color: white;
+}
+.text4{
+	float: right;
+    padding-left: 8%;
+    padding-right: 40%;  
+}
+.text5{
+	float: right;
+    padding-left: 8%;
+    padding-right: 45%; 
+    padding-top: 0%;
+}
+.text6{
+	padding-left: 8%;
+}
+.img5{
+	float: right;
+	padding-right: 20%;
+}
